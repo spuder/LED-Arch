@@ -1,26 +1,32 @@
 ---
-name: Changeme
+name: LED-Arch
 description: |
-  To change this file, modify settings.yaml and templates/README.md, then run 
-  ```
-  git submodule update -init
-  make all
-  ```
+  An LED arch you can make for about $10. Uses PVC tile edging you can purchase from Lowes / Home Depot. 3d printable part fits snugly on ikea tables (or any table about 34mm thick)
+  
+  ## Hackaday
 
-  **Do not edit README.md directly as it will be overwritten..**
+  This arch [was featured on Hackaday.com](https://hackaday.com/2018/04/05/workbench-light-arch-on-the-cheap/)
+
+  Related:
+  - [Multimeter Holder](https://www.thingiverse.com/thing:2846589)
+  - [Wire Holder](https://www.thingiverse.com/thing:2839938)
 license: 
-  type: undef # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
+  type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
   owner: Spencer Owen
-  year: 2020
+  year: 2018
 resources:
-  foo: https://example.com
-fusion_link: https://autodesk.example.com #comment out if no fusion link
+  PVC Tile Trim (Lows): https://www.lowes.com/pd/Schluter-Systems-Rondec-0-313-in-W-x-98-5-in-L-PVC-Tile-Edge-Trim/4190005
+  4000K LED (Amazon): http://a.co/2MN2JTW
+  Power Brick (Amazon): http://a.co/03ADv43
+  Molex Pigtail (Amazon): http://a.co/i4nttiv
+fusion_link: https://a360.co/2Uyzi65 #comment out if no fusion link
 links:
-  Thingiverse: https://www.thingiverse.com/thing:xxxx
-  Prusa: https://foo.com
-  GrabCad: https://foo.com
-  Hackster.io: https://hackster.io/foo
-  Hackaday: https://hackaday.io/foo
-  Reddit: https://www.reddit.com/r/foo
-  Github: https://github.com/foo
-  Blog: https://foo.com
+  Thingiverse: https://www.thingiverse.com/thing:2846958
+  Prusa: https://www.prusaprinters.org/prints/115908-led-arch
+  # GrabCad: https://foo.com
+  # Hackster.io: https://hackster.io/foo
+  Hackaday: https://hackaday.com/2018/04/05/workbench-light-arch-on-the-cheap/
+  # Reddit: https://www.reddit.com/r/foo
+  Github: https://github.com/spuder/LED-Arch
+  # Blog: https://foo.com
+# 
