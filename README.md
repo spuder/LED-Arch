@@ -43,6 +43,12 @@ Related:
 - [Molex Pigtail (Amazon)](http://a.co/i4nttiv)
 
 ## :camera: Photos
+![](photos%2FIMG_5964.JPG)
+![](photos%2FIMG_5966.JPG)
+![](photos%2FIMG_5967.JPG)
+![](photos%2FIMG_5624.jpg)
+![](photos%2FIMG_5969.JPG)
+![](photos%2FIMG_5968.JPG)
 
 ---
 
